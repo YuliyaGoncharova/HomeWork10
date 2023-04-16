@@ -12,7 +12,11 @@ public class Main {
     static void Task1() {
         PhonesReader reader = new PhonesReader("file_phone_numbers.txt");
         List<String> phoneNumbers = reader.readPhoneNumbersFromFile();
-        System.out.println("Phone numbers read from file: " + phoneNumbers);
+        for (String phNumber:
+                phoneNumbers) {
+            System.out.println(phNumber);
+        }
+//        System.out.println(phoneNumbers);
     }
 
     static void Task2() {
@@ -27,8 +31,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-//        Task1();
+        Task1();
 //        Task2();
-        Task3();
+//        Task3();
     }
 }
