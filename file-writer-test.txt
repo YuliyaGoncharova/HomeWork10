@@ -1,0 +1,1 @@
+FileWriter.write() can supply string

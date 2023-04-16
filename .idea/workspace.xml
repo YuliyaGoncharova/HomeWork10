@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a9d7c8a-8604-4aa9-901b-f6df85756b56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_phone_numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1FileToConsole/PhonesReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2FileToFile/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2FileToFile/UsersReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task3UniqWords/UniqWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    <list default="true" id="4a9d7c8a-8604-4aa9-901b-f6df85756b56" name="Changes" comment="new project. 1st version">
+      <change afterPath="$PROJECT_DIR$/copy-paste-fos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-writer-test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task1FileToConsole/PhonesReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task2FileToFile/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task2FileToFile/UsersReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task3UniqWords/UniqWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +132,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681299805112</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project. 1st version">
+      <created>1681656507586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681656507586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project. 1st version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project. 1st version" />
   </component>
 </project>
